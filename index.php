@@ -24,3 +24,5 @@ define('HSYCMS_VERSION', 'v3.0'); //版本号
 
 // 加载框架引导文件
 require __DIR__ . '/libs/start.php';
+
+// s
